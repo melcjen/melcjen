@@ -30,8 +30,6 @@ I also have some great self-teaching training manuals available if you are keen 
 | Other | Excel VBA, Excel Templates, Word Templates, Corporate Templates, Word VBA Automation |
 | Corporate Training | Access and Excel customised training courses to VBA Level|
 
-**📄 Resume:** melcjen.github.io
-
 **📫 Contact:** mel@f1solutions.co.za  | www.f1solutions.co.za | https://www.linkedin.com/in/melanie-jenkins-5aa64b9/
 
 ---
